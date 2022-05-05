@@ -35,7 +35,7 @@
 
 - :seedling: Technology blogs in Medium.
 
-- :zap: In my free time, I explore bug bounty programs and read tech articles.
+- :zap: In my free time, I explore bug bounty programs/ do CTF Hacking challenges and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hasa-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hasanka-amarasinghe)
 
@@ -59,4 +59,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
+

@@ -31,7 +31,7 @@
 
 :man_technologist: I am a Cybersecurity Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
 
-- :telescope: I’m working as an Associate GRC Analyst and contributing as an Red Teamer for securing web applications as a bug bounty hunter.
+- :telescope: I’m working as an Application Security Engineer and contributing as an Red Teamer for securing web applications as a bug bounty hunter.
 
 - :seedling: Technology blogs in Medium.
 

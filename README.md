@@ -39,6 +39,8 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hasa-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hasanka-amarasinghe)
 
+[![CVE-2025-52357](https://img.shields.io/badge/CVE-2025--52357-red)](https://cve.org/CVERecord?id=CVE-2025-52357)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

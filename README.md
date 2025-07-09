@@ -16,21 +16,15 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=wrathfulDiety&style=flat-square&color=blue" alt=""/>
 <br>
-<div>
+<p><div>
 <!-- CVE Badge -->
 <a href="https://cve.org/CVERecord?id=CVE-2025-52357">
   <img src="https://img.shields.io/badge/CVE-2025--52357-red?style=for-the-badge&logo=cve&logoColor=white" alt="CVE-2025-52357 Badge"/>
 </a>
-</div>
+</div></p>
 
-<!-- CVE Section -->
-<h3>🏅 CVE and Security Research</h3>
-<p>
-  I am credited with <strong><a href="https://www.cve.org/CVERecord?id=CVE-2025-52357">CVE-2025-52357</a></strong> for discovering a reflected XSS vulnerability in the <strong>FiberHome FD602GW-DX-R410</strong> router's admin interface.
-</p>
-<a href="https://www.cve.org/CVERecord?id=CVE-2025-52357">
-  <img src="https://img.shields.io/badge/CVE-2025--52357-red?style=for-the-badge&logo=cve&logoColor=white" alt="CVE-2025-52357 Badge"/>
-</a>
+
+
 
 
 <h1>
@@ -58,6 +52,15 @@
 
 
 ---
+
+<!-- CVE Section -->
+<h3>🏅 CVE and Security Research</h3>
+<p>
+  I am credited with <strong><a href="https://www.cve.org/CVERecord?id=CVE-2025-52357">CVE-2025-52357</a></strong> for discovering a reflected XSS vulnerability in the <strong>FiberHome FD602GW-DX-R410</strong> router's admin interface.
+</p>
+<a href="https://www.cve.org/CVERecord?id=CVE-2025-52357">
+  <img src="https://img.shields.io/badge/CVE-2025--52357-red?style=for-the-badge&logo=cve&logoColor=white" alt="CVE-2025-52357 Badge"/>
+</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 

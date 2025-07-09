@@ -14,7 +14,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=wrathfulDiety&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=wrathfulDiety&style=flat-square&color=blue" alt=""/> 
+[![CVE-2025-52357](https://img.shields.io/badge/CVE-2025--52357-red)](https://cve.org/CVERecord?id=CVE-2025-52357)
+
 
 <h1>
   hey there! I'm Hasanka Amarasinghe
@@ -39,7 +41,6 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hasa-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hasanka-amarasinghe)
 
-[![CVE-2025-52357](https://img.shields.io/badge/CVE-2025--52357-red)](https://cve.org/CVERecord?id=CVE-2025-52357)
 
 ---
 

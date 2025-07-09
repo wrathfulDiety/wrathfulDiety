@@ -60,6 +60,7 @@
 <a href="https://www.cve.org/CVERecord?id=CVE-2025-52357">
   <img src="https://img.shields.io/badge/CVE-2025--52357-red?style=for-the-badge&logo=cve&logoColor=white" alt="CVE-2025-52357 Badge"/>
 </a>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

@@ -14,13 +14,12 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=wrathfulDiety&style=flat-square&color=blue" alt=""/>
 
 <!-- CVE Badge -->
 <a href="https://cve.org/CVERecord?id=CVE-2025-52357">
   <img src="https://img.shields.io/badge/CVE-2025--52357-red?style=for-the-badge&logo=cve&logoColor=white" alt="CVE-2025-52357 Badge"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=wrathfulDiety&style=flat-square&color=blue" alt=""/>
 
 
 <h1>

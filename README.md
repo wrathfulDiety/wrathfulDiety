@@ -17,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=wrathfulDiety&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  hey there
+  hey there! I'm Hasanka Amarasinghe
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 

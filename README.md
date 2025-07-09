@@ -16,10 +16,12 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=wrathfulDiety&style=flat-square&color=blue" alt=""/>
 <br>
+<div>
 <!-- CVE Badge -->
 <a href="https://cve.org/CVERecord?id=CVE-2025-52357">
   <img src="https://img.shields.io/badge/CVE-2025--52357-red?style=for-the-badge&logo=cve&logoColor=white" alt="CVE-2025-52357 Badge"/>
 </a>
+</div>
 
 
 <h1>

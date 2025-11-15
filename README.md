@@ -59,10 +59,15 @@
 <!-- CVE Section -->
 <h3>🏅 CVE and Security Research</h3>
 <p>
-  I am credited with <strong><a href="https://www.cve.org/CVERecord?id=CVE-2025-52357">CVE-2025-52357</a></strong> for discovering a reflected XSS vulnerability in the <strong>FiberHome FD602GW-DX-R410</strong> router's admin interface.
+  I am credited with 
+  - <strong><a href="https://www.cve.org/CVERecord?id=CVE-2025-52357">CVE-2025-52357</a></strong> for discovering a reflected XSS vulnerability in the <strong>FiberHome FD602GW-DX-R410</strong> router's admin interface.
+  - <strong><a href="https://www.cve.org/CVERecord?id=CVE-2025-56311">CVE-2025-56311</a></strong> for discovering a CSRF vulnerability in the <strong>FiberHome FD602GW-DX-R410</strong> router which allows remote attackers to reboot the device.
 </p>
 <a href="https://www.cve.org/CVERecord?id=CVE-2025-52357">
   <img src="https://img.shields.io/badge/CVE-2025--52357-red?style=for-the-badge&logo=cve&logoColor=white" alt="CVE-2025-52357 Badge"/>
+</a>
+<a href="https://www.cve.org/CVERecord?id=CVE-2025-56311">
+  <img src="https://img.shields.io/badge/CVE-2025--56311-red?style=for-the-badge&logo=cve&logoColor=white" alt="CVE-2025-56311 Badge"/>
 </a>
 
 ---
